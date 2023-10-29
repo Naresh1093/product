@@ -1,12 +1,12 @@
 import React from 'react';
 
-const name = 'Pranav P Hunagund';
+const name = 'M.Naresh Naik';
 
 const number = 100;
 
 const isView = true;
 
-const languages = ['HTML', 'CSS', 'Javascript', 'React'];
+const languages = ['HTML', 'CSS', 'Javascript', 'React.js'];
 
 const genRandomNum = () => {
     return Math.round(Math.random()*10000)
